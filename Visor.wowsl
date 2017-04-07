@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Visor</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/angular/</ImageTemplate>
+            <ImageTemplateName>Angular</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#5f32a3</TemplateColor>
+            <TemplateFont>Play</TemplateFont>
+            <TemplateName>angular</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/ASO.NET_4.0.jpg</url>
+                <title>ASO.NET_4.0</title>
+                <filesize>2843776</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/ASP.NET_4.0.jpg</url>
+                <title>ASP.NET_4.0</title>
+                <filesize>642987</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Comunicaciones_Redes.jpg</url>
+                <title>Comunicaciones_Redes</title>
+                <filesize>867745</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Comunicaciones_Redes_C.jpg</url>
+                <title>Comunicaciones_Redes_C</title>
+                <filesize>1114724</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Estructura_Datos.jpg</url>
+                <title>Estructura_Datos</title>
+                <filesize>729941</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Estructura_Datos_C.jpg</url>
+                <title>Estructura_Datos_C</title>
+                <filesize>867195</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Fundamentos_Redes.jpg</url>
+                <title>Fundamentos_Redes</title>
+                <filesize>3070611</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Fundamentos_Redes_C.jpg</url>
+                <title>Fundamentos_Redes_C</title>
+                <filesize>649642</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Java_Como_Programar.jpg</url>
+                <title>Java_Como_Programar</title>
+                <filesize>770987</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Java_Como_Programar_C.jpg</url>
+                <title>Java_Como_Programar_C</title>
+                <filesize>2980443</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Mantenimiento_Reparacion.jpg</url>
+                <title>Mantenimiento_Reparacion</title>
+                <filesize>723550</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Mantenimiento_Reparacion_C.jpg</url>
+                <title>Mantenimiento_Reparacion_C</title>
+                <filesize>3452088</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Programacion_Java.jpg</url>
+                <title>Programacion_Java</title>
+                <filesize>4091942</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Programacion_Java_C.jpg</url>
+                <title>Programacion_Java_C</title>
+                <filesize>3882666</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Redes_Computadoras.jpg</url>
+                <title>Redes_Computadoras</title>
+                <filesize>2467505</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Redes_Computadoras_C.jpg</url>
+                <title>Redes_Computadoras_C</title>
+                <filesize>2931510</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Sistemas_Operativos.jpg</url>
+                <title>Sistemas_Operativos</title>
+                <filesize>2674111</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Sistemas_Operativos_C.jpg</url>
+                <title>Sistemas_Operativos_C</title>
+                <filesize>804636</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/SQL_Server.jpg</url>
+                <title>SQL_Server</title>
+                <filesize>657617</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/SQL_Server_C.jpg</url>
+                <title>SQL_Server_C</title>
+                <filesize>2908983</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Visual_2010.jpg</url>
+                <title>Visual_2010</title>
+                <filesize>2891159</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Segundo Parcial/Aplicaciones/app3/imagenes/Visual_2010_C.jpg</url>
+                <title>Visual_2010_C</title>
+                <filesize>2801418</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
